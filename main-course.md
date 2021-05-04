@@ -4,4 +4,4 @@
 
 - Pan-fried chicken
 - Roasted vegetables
-- Vegan red carry
+- Vegan red curry
