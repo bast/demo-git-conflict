@@ -1,6 +1,6 @@
 
 
-# Main
+# Main course
 
 - Pan-fried chicken
 - Roasted vegetables
