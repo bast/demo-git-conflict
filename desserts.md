@@ -3,5 +3,6 @@
 # Desserts
 
 - Rhubarb tart
-- Icecream
+- Lemon icecream
 - Almond cake
+- Apple pie
